@@ -6,11 +6,11 @@ Desarrollar en Laravel 7 un sistema web para administrar materias y sus activida
 
 ## Requerimientos
 
-- PHP 7.4.29.
-- Laravel 7.30.7.
-- Composer para gestionar las dependencias de PHP.
-- MySQL/MariaDB para la persistencia de datos.
-- Un servidor web local compatible con Laravel.
+1. Crear un proyecto Laravel 7 llamado `grades`.
+2. Desarrollar un CRUD para listar las materias.
+3. Al seleccionar una materia, mostrar las calificaciones de sus actividades evaluables.
+4. Permitir agregar nuevas actividades evaluables indicando tipo, calificación y fecha.
+5. Permitir modificar actividades y calificaciones, además de eliminarlas.
 
 ## Tecnologías
 
